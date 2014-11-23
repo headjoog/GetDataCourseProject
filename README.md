@@ -3,7 +3,7 @@ GetDataCourseProject
 
 Coursera Getting Data Course Project
 
-Refer to Codebook for detail: [Codebook.md](https:/github.com/headjoog/GetDataCourseProject/blob/master/Codebook.md)
+Refer to Codebook for detail: [Codebook.md](Codebook.md)
 
 R Script for processing: [run_analysis.R](https://github.com/headjoog/GetDataCourseProject/blob/master/run_analysis.R)
 
